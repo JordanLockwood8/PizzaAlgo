@@ -1,2 +1,7 @@
 Decide which busness to order from
 Decide which type of pizza to order
+Decide pickup or delivery
+wait
+pay
+enjoy
+clean dishes
